@@ -2,7 +2,6 @@ Hello, my name is Alan Texeira de Moraes. I'm 18 years old and I'm a developer, 
 <br>
 <div  align="center">
  <a  href="https://www.linkedin.com/in/alan-teixeira-de-moraes-190aa0230/"><img align="center" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <br>
  <a  href="https://www.instagram.com/alnn_moraes7/"><img align="center" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <br />
 <br />
