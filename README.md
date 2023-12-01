@@ -14,6 +14,5 @@ Hello, my name is Alan Texeira de Moraes. I'm 18 years old and I'm a developer, 
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/github-082032?style=for-the-badge&logo=github&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/TypeScript-1c4c96?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/JavaScript-eeca06?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <br>
 </div>
